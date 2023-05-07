@@ -27,4 +27,3 @@
 [OPEN API 사용 가이드, 열린데이터광장](https://data.seoul.go.kr/together/guide/useGuide.do)   
 
 
-[![Hansung Metro's github stats](https://github-readme-stats.vercel.app/api?username=HansungMetro&hide=stars,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
