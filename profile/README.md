@@ -22,7 +22,9 @@
 
 ### 👩‍💻 참고자료
 
-[지하철 실시간 위치정보, 열린데이터광장](https://data.seoul.go.kr/dataList/OA-12601/A/1/datasetView.do)
+[서울시 지하철 실시간 위치정보, 열린데이터광장](https://data.seoul.go.kr/dataList/OA-12601/A/1/datasetView.do)
+[서울시 지하철 실시간 도착정보, 열린데이터광장](https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do)
+[OPEN API 사용 가이드, 열린데이터광장](https://data.seoul.go.kr/together/guide/useGuide.do)
 
 🍿 Fun facts - what does your team eat for breakfast?
 
