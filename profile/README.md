@@ -16,6 +16,8 @@
 
 함수군 정보와 전역변수 목록은 [프로젝트 위키](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectWiki.md)를 참고한다.
 
+작업시 매주 작업내용을 할 수 있으면 [프로젝트 로그](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.
+
 ### 🧙 사용 스택
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -29,5 +31,3 @@
 [OPEN API 사용 가이드, 열린데이터광장](https://data.seoul.go.kr/together/guide/useGuide.do)
 
 🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
