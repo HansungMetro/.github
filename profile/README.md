@@ -18,6 +18,8 @@
 
 작업시 매주 작업내용을 할 수 있으면 [프로젝트 로그](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.
 
+프로젝트 코드는 [ProjectScript](https://github.com/HansungMetro/ProjectScript)레포지토리에 저장한다.
+
 ### 🧙 사용 스택
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
