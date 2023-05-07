@@ -1,2 +1,2 @@
-# .github
-For README.md
+# 한성 메트로
+## 한성대학교 RPA파이썬 기말고사 대체 프로젝트
