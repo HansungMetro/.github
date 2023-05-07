@@ -16,7 +16,7 @@
 
 함수군 정보와 전역변수 목록은 [프로젝트 위키](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectWiki.md)를 참고하며, 작업내용을 할 수 있으면 [프로젝트 로그](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.
 
-프로젝트 코드는 [ProjectScript](https://github.com/HansungMetro/ProjectScript)레포지토리에 저장한다.
+프로젝트 코드는 [ProjectScript](https://github.com/HansungMetro/ProjectScript) 레포지토리에 저장한다.
 
 ### 🧙 사용 스택
 
