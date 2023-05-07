@@ -14,9 +14,7 @@
 
 변수는 되도록 전역변수의 사용을 지양하고 전역변수를 사용하는 경우 ""에 기재한다. 변수명은 낙타 표기법으로 사용한다.
 
-함수군 정보와 전역변수 목록은 [프로젝트 위키](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectWiki.md)를 참고한다.
-
-작업시 매주 작업내용을 할 수 있으면 [프로젝트 로그](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.
+함수군 정보와 전역변수 목록은 [프로젝트 위키](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectWiki.md)를 참고하며, 작업내용을 할 수 있으면 [프로젝트 로그](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.
 
 프로젝트 코드는 [ProjectScript](https://github.com/HansungMetro/ProjectScript)레포지토리에 저장한다.
 
