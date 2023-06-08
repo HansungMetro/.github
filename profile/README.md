@@ -22,7 +22,7 @@
 
 ### 👩‍💻 참고자료
 
-[직접 보여준다 해 영상](https://drive.google.com/drive/folders/1vKLLBujFHEjMq8YygrOXjOdIrbQ3JAbw?usp=sharing)   
+[프로젝트 시현 영상](https://drive.google.com/drive/folders/1vKLLBujFHEjMq8YygrOXjOdIrbQ3JAbw?usp=sharing)   
 [서울시 지하철 실시간 위치정보, 열린데이터광장](https://data.seoul.go.kr/dataList/OA-12601/A/1/datasetView.do)   
 [서울시 지하철 실시간 도착정보, 열린데이터광장](https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do)   
 [OPEN API 사용 가이드, 열린데이터광장](https://data.seoul.go.kr/together/guide/useGuide.do)   
